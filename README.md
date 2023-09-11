@@ -12,8 +12,9 @@
 tenho 15 anos, moro em São José das Palmeira/pr e sou aluna da diciplina de pensamento coputacional!
 
 ### Tecnologia E Ferramentas:
-</code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"windth="80px" /></code>
-</code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"windth="80px" /></code>
-</code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"windth="80" /></code>
-</code>
-   
+</code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" windth="80px" /></code>
+</code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" windth="80px" /></code>
+</code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" windth="80" /></code>
+</code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" windth="80px" /></code>
+</code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" windth="80px" /></code>
+</code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg" windth="80px" /></code>
