@@ -19,4 +19,13 @@ tenho 15 anos, moro em São José das Palmeira/pr e sou aluna da diciplina de pe
 </code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80px"/></code>
 
 
-   
+</br>
+</br>
+<div display="inline-block">
+<p alingn="left"> sou aluna do CE são josé </p>
+<p alingn="left"> estou estudando HTML5,CSS3 E JAVASCRIPT </p>
+
+</br>
+você pode falar comigo pelo[instagram](https://www.instagram.com/marry_zimpel) e pode conhecer meus projetos já desenvolvidos, estão disponiveis aqui nos repositórios.
+
+</br>  
